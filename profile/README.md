@@ -1,12 +1,9 @@
-## Hi there 👋
+- 👋 Hi, I’m @Happpydust
+- 👀 I’m interested in some HTML
+- 🌱 I’m currently learning basic python3
+- 💞️ I’m looking to collaborate on nothing
+- 📫 How to reach me don't
 
-<!--
+<img src="github_contributions_chart_snake.svg" alt="Github contrubiton chart snake game">
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<p style="font-size:0.9vw">Credit to AstraaDev for this img</p>
