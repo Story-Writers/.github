@@ -1,3 +1,3 @@
 -  Hi, We're Story Writers
 - We Write stories and publish them in HTML on github pages
--And do other stuff
+- And do other stuff
